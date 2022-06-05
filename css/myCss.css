@@ -1,0 +1,6 @@
+.clickableSpan{
+	color:#007bff;cursor: pointer;
+}
+.clickableSpan:hover{
+	opacity: 0.6;
+}
