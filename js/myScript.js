@@ -1,7 +1,5 @@
 function showEnglish() {
-
 	document.getElementById("downloadBut").href="files/Med Amine Khaili cv-english.pdf";
-	url = "files/Med Amine Khaili cv-english.pdf";
 	document.getElementById("french").style.display="none";
 	document.getElementById("frSpan").style.borderBottom="none";
 	document.getElementById("english").style.display="inherit";
